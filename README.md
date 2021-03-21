@@ -1,6 +1,9 @@
 ![SIT messages version](https://img.shields.io/badge/version-1.0.1-blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kamil1marczak/SIT-messenger-frontend)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=http%3A%2F%2Fsit-messenger.com%2F)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7d20272c612cc39a111e/maintainability)](https://codeclimate.com/github/kamil1marczak/SIT-messenger-frontend/maintainability)
+
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS%20-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 
 <h1 align="center">Welcome to SIT Messenger Frontend </h1>
 
